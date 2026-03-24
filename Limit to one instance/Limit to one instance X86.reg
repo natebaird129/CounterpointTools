@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Synchronics\Counterpoint\8.0\Options]
+"CPInstance"="CPSQL.1"
+"AllowMultipleAppInstances"=dword:00000000
